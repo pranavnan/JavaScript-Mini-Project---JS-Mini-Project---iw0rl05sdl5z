@@ -15,7 +15,7 @@ html {
 body {
   font-family: 'Nunito', sans-serif;
   font-weight: 400;
-  height: 100vh;
+  height: 100vh; 
   color: #333;
   background-image: linear-gradient(to top left, #366c82 0%, #2e79bf 100%);
   display: flex;
